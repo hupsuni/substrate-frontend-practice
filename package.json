@@ -54,7 +54,11 @@
     ],
     "plugins": [
       "only-warn"
-    ]
+    ],
+    "rules": {
+        "indent": ["warn", 4],
+        "no-trailing-spaces": "off"
+    }
   },
   "engines": {
     "node": ">=12",
