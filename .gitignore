@@ -10,3 +10,8 @@ build
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+
+# Added by cargo
+
+/target
